@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Evelin</h1>
 
-<!--
-**evelinpulsara/evelinpulsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudiante de Ingeniería de Software <br>
+  🚀 Apasionada por el desarrollo backend y frontend <br>
+  🌸 Siempre aprendiendo algo nuevo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 Sobre mí
+
+- 🎓 Estudio Ingeniería de Software
+- 💡 Me gusta construir soluciones prácticas
+- 🛠️ Actualmente trabajando en proyectos con Java y Spring Boot
+- 📚 Aprendiendo Flutter y desarrollo web
+
+---
+
+## 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 🌟 Proyectos Destacados
+
+- 📌 Sistema de Gestión de Estudiantes y Notas
+- 🛍️ Ecommerce en Flutter
+- 🎭 Plataforma de gestión de eventos del Carnaval
+
+---
+
+## 📫 Contacto
+
+- ✉️ Tu correo aquí
+- 💼 LinkedIn aquí
