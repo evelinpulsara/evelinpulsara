@@ -37,3 +37,8 @@
 
 - ✉️ Tu correo aquí
 - 💼 LinkedIn aquí
+
+<p align="right">
+  <img src="https://media.tenor.com/dLt367PBlAIAAAAM/yoongi-cute-yoongi-gummy-smile.gif" width="200">
+</p>
+
